@@ -17,7 +17,7 @@
     "date-fns": "^2.16.1",
     "graphql": "^14.7.0",
     "graphql-tag": "^2.11.0",
-    "nuxt": "^2.14.7",
+    "nuxt": "^4.6.2",
     "vue-datocms": "^0.0.7"
   },
   "devDependencies": {
